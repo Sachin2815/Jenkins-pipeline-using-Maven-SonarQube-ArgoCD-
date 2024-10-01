@@ -108,7 +108,7 @@ After running this script, use your `<VM-publicIP:8080>` and access it via the b
      <br/>
      <br/>
      
-     ![pipeline Screenshot](https://github.com/sachin2815/maven-jenkins-ArgoCD/assets/100375390/04517050-4b7d-4267-90c3-efe3cc0a17d4)
+     ![pipeline Screenshot](https://github.com/mdazfar2/maven-jenkins-ArgoCD/assets/100375390/04517050-4b7d-4267-90c3-efe3cc0a17d4)
 
 
 - Now install the Kubeadm because we are deploy ArgoCD using Kubernetes cluster, Visit the installation of [kubernetes](https://github.com/mdazfar2/ShellScript-Toolkit/tree/main/kubernetes%20Installation).
