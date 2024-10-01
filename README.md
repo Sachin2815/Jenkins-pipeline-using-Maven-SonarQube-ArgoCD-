@@ -108,7 +108,7 @@ After running this script, use your `<VM-publicIP:8080>` and access it via the b
      <br/>
      <br/>
      
-     ![pipeline Screenshot](https://github.com/mdazfar2/maven-jenkins-ArgoCD/assets/100375390/04517050-4b7d-4267-90c3-efe3cc0a17d4)
+     ![pipeline Screenshot](https://github.com/sachin2815/maven-jenkins-ArgoCD/assets/100375390/04517050-4b7d-4267-90c3-efe3cc0a17d4)
 
 
 - Now install the Kubeadm because we are deploy ArgoCD using Kubernetes cluster, Visit the installation of [kubernetes](https://github.com/mdazfar2/ShellScript-Toolkit/tree/main/kubernetes%20Installation).
@@ -130,8 +130,8 @@ This project demonstrates a robust DevOps pipeline using Jenkins, SonarQube, Doc
 
 ***That’s all from my side. If you encounter any issues while working on this project, feel free to connect with me via-***
 
-- [LinkedIN](https://linkedin.com/in/md-azfar-alam)
-- [Discord](https://discordapp.com/users/877531143610708028)
-- [Mail Me](mailto:azfaralam.ops@gmail.com)
+- [LinkedIN](https://www.linkedin.com/in/sa-chin/)
+- [Discord](https://discord.com/channels/@me)
+- [Mail Me](mailto:sachin.profess@gmail.com)
 
 **Your insights are valuable and will help improve this project for everyone. Don't hesitate to connect!** ✨😊
