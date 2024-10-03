@@ -4,7 +4,7 @@ Successfully deploy a Spring Boot application using a robust CI/CD pipeline. It 
 
 <!--video uploading here-->
 
-## 🎥 Watch the tutorial video [here](https://player.vimeo.com/video/948914848).
+## 🎥 Watch the tutorial video [here](https://player.vimeo.com/video/1015781852).
 
 # Workflow Diagram-
 ![jenkins workflow](https://github.com/user-attachments/assets/3b04a34b-3c0e-4ad5-87fc-ae7d12d79b61)
